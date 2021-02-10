@@ -2,7 +2,7 @@
 
 # Welcome to the Techie Tessie Community GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
-### Check out our YouTube channel!
+### Check out our YouTube Channel!
 [<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]YouTube
 
 ### Official Merchandise:
