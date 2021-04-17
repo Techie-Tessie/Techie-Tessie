@@ -4,14 +4,11 @@
 
 ## Making programming education as widespread and accessible as possible
 
-### Subscribe to our Channel:
-[<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]YouTube
+[<img align="left" alt="YouTube" height="60px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe here
 
-### Get Official Merchandise here:
-[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/redbubble_logo_purple.png"/>][RedBubble1]'Keeping the Code Coming' Design
+[<img align="left" alt="RedBubble" height="60px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/redbubble_logo_purple.png"/>][RedBubble1]Get 'Keeping the Code Coming' merch here
 
-### Get our new H(Tea)ML Merchandise here:
-[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/travel_mug_icon.png"/>][RedBubble2]'H(Tea)ML' Design
+[<img align="left" alt="RedBubble" height="60px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/travel_mug_icon.png"/>][RedBubble2]Get 'H(Tea)ML' merch here
 
 [YouTube]: https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
 [RedBubble1]: https://www.redbubble.com/shop/ap/68986038
