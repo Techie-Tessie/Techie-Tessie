@@ -11,7 +11,7 @@
 [<img align="left" alt="RedBubble" height="40px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/tshirt_logo.png"/>][RedBubble1]'Keeping the Code Coming' design
 
 #### New Merch Design
-[<img align="left" alt="RedBubble" height="40px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/travel_mug_icon.png"/>][RedBubble2]'H(Tea)ML' design
+[<img align="left" alt="RedBubble" height="40px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/tea_design2.png"/>][RedBubble2]'H(Tea)ML' design
 
 [YouTube]: https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
 [RedBubble1]: https://www.redbubble.com/shop/ap/68986038
