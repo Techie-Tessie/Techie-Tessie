@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/youtube_banner.png "Header")
-
 # Welcome to the Techie Tessie Community GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
 ## Making programming education as widespread and accessible as possible
